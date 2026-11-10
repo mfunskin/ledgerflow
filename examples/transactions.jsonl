@@ -1,0 +1,3 @@
+{"id":"tx-1","source":"gateway","external_id":"pay-1","debit":"receivables","credit":"settlement","currency":"USD","amount_minor":2500}
+{"id":"tx-2","source":"gateway","external_id":"pay-2","debit":"receivables","credit":"settlement","currency":"USD","amount_minor":1500}
+{"id":"tx-3","source":"gateway","external_id":"pay-3","debit":"settlement","credit":"fees","currency":"USD","amount_minor":100}

@@ -1,0 +1,8 @@
+/bin/
+/runs/
+*.test
+*.out
+.DS_Store
+.idea/
+.vscode/
+.env

@@ -1,0 +1,3 @@
+{"source":"gateway","external_id":"pay-1","debit":"receivables","credit":"settlement","currency":"USD","amount_minor":2500}
+{"source":"gateway","external_id":"pay-2","debit":"receivables","credit":"settlement","currency":"USD","amount_minor":1550}
+{"source":"gateway","external_id":"pay-4","debit":"receivables","credit":"settlement","currency":"USD","amount_minor":900}
